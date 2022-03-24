@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158546671130",
+    "project_id": "flash-chat-20f93",
+    "storage_bucket": "flash-chat-20f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158546671130:android:4ed9badc4fe9923f7603a3",
+        "android_client_info": {
+          "package_name": "co.rohit.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158546671130-6ej0akmvp9v6a5rgob7l7ffcrj1kdum6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFNDBRbQR0fr76sMRgYXLwcXaqKTYexQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158546671130-6ej0akmvp9v6a5rgob7l7ffcrj1kdum6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
